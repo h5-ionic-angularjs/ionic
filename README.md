@@ -1,2 +1,2 @@
 # ionic
-ionic学习中遇到的bug以及实例
+ionic学习与总结
